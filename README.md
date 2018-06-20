@@ -71,6 +71,6 @@ English – Pre-Intermediate (A2)
 
 ## MY PROJECTS
 
-1. Web page - [Barbershop](https://khryshan.github.io/barbershop/)
-2. Mobile-first responsive web design - [Lookshop](https://khryshan.github.io/lookshop/)
-3. Simple memory game - [Game](https://khryshan.github.io/match-match-game/)
+1. Web page - [Barbershop](https://khryshan.github.io/barbershop/) (HTML5, CSS3, JS)
+2. Mobile-first responsive web design - [Lookshop](https://khryshan.github.io/lookshop/) (HTML5, CSS3, BEM)
+3. Simple memory game - [Game](https://khryshan.github.io/match-match-game/) (HTML5, CSS3, JS)
