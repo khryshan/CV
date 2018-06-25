@@ -62,7 +62,7 @@ English – Pre-Intermediate (A2)
 
 ## COURSES
 
-*2018* - DevIncubator (front-end-course) 
+*2018* - DevIncubator (front-end-course)
 *2017* - Rolling Scopes School (front-end-course) - EPAM  
 *2016* - Intensive online course &quot;Basic JavaScript» HTML Academy  
 *2015* - Course Front-end Fundamentals: HTML, CSS, JavaScript. IT-Academy  
